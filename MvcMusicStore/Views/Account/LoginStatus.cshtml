@@ -1,0 +1,11 @@
+﻿@model System.Security.Principal.IPrincipal
+
+@if (@Model.Identity.IsAuthenticated)
+{
+    <span>@Model.Identity.Name</span>
+ @Html.ActionLink("LogOff","LogOff","Account");
+}
+else
+{
+     @Html.ActionLink("LogOn","LogOn","Account");
+}

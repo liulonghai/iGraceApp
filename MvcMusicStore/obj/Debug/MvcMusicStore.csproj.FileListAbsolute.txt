@@ -1,5 +1,0 @@
-D:\MVC3\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
-D:\MVC3\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
-D:\MVC3\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
-D:\MVC3\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
-D:\MVC3\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
